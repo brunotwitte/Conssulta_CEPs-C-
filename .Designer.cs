@@ -23,7 +23,7 @@
         #region Código gerado pelo Windows Form Designer
 
         /// <summary>
-        /// Método necessário para suporte ao Designer - não modifique 
+        /// Método necessário para suporte ao Designer - não modifique  obrigado
         /// o conteúdo deste método com o editor de código.
         /// </summary>
         private void InitializeComponent()
